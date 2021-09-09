@@ -102,6 +102,6 @@ EditorBuildSettings:
     path: Assets/2021-Devices-Lachlan/Introduction/Devices-Introduction.unity
     guid: 0c9926ae523c5f940ac57e704731dde4
   - enabled: 1
-    path: Assets/2021-Devices-Lachlan/Introduction/Devices-Lachlan-1.unity
-    guid: 0409138bf85f87941af8984d134b36b3
+    path: Assets/2021-Algorithms - Lachlan/Scenes/2021-Algorithms-Lachlan.unity
+    guid: 83e6cb4e06374ba4a8cd8a88ece97478
   m_configObjects: {}
