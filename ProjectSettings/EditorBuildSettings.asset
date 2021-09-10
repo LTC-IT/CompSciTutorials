@@ -104,4 +104,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2021-Algorithms - Lachlan/Scenes/2021-Algorithms-Lachlan.unity
     guid: 83e6cb4e06374ba4a8cd8a88ece97478
+  - enabled: 1
+    path: Assets/2021-Data-Daemon/scenes/2021-Data template-Daemon.unity
+    guid: 6e37fd228c45c5444b2c7e0dfa1d976e
   m_configObjects: {}
