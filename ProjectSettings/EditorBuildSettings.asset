@@ -107,4 +107,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2021-Data-Daemon/scenes/2021-Data template-Daemon.unity
     guid: 6e37fd228c45c5444b2c7e0dfa1d976e
+  - enabled: 1
+    path: Assets/2021-Data-Daemon/scenes/2021 -data tutorial- Daemon.unity
+    guid: cb7a550958a609f4290b629cb7bd8f42
   m_configObjects: {}
