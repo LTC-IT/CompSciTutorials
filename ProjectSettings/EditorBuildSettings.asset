@@ -96,7 +96,7 @@ EditorBuildSettings:
     path: Assets/2021-Data-Daemon/scenes/Data-Introduction.unity
     guid: b98104091c05ce24790a25d8a198d32f
   - enabled: 1
-    path: Assets/2021-Data-Rene/Introductory Scene - Data.unity
+    path: Assets/2021-Data-Rene/Scenes/Introductory Scene - Data.unity
     guid: a814c49431d809a4db7b000f0276417e
   - enabled: 1
     path: Assets/2021-Devices-Lachlan/Introduction/Devices-Introduction.unity
@@ -107,4 +107,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2021-Data-Daemon/scenes/2021-Data template-Daemon.unity
     guid: 6e37fd228c45c5444b2c7e0dfa1d976e
+  - enabled: 1
+    path: Assets/2021-Data-Daemon/scenes/2021 -data tutorial- Daemon.unity
+    guid: cb7a550958a609f4290b629cb7bd8f42
   m_configObjects: {}
