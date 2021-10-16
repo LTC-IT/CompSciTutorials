@@ -348,9 +348,9 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Hello and welcome to the ports tutorial!
 
-    The name''s Marie and I''ll
+    My name is Marie and I''ll
     be teaching you all about the different ports of a computer and other household
-    devices'
+    devices.'
 --- !u!222 &935462691
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -507,7 +507,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0c3f9393f31706b48ada39bf6fa9ba92, type: 3}
+  m_Sprite: {fileID: 4785654328255984965, guid: 0c3f9393f31706b48ada39bf6fa9ba92,
+    type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
