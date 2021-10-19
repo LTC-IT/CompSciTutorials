@@ -125,4 +125,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2021-Devices-Lachlan/Introduction/Devices-Lachlan-Output.unity
     guid: bb99ac9efda8bd443a87b31f5c96b6bc
+  - enabled: 1
+    path: Assets/2021-Ports-Ella/2021-Ports-Ella.unity
+    guid: 581df9c2ef4efc248aa8086e0537a627
+  - enabled: 1
+    path: Assets/2021-Ports-Ella/Ports - Introduction.unity
+    guid: db39326bb95004962ac78885c19733eb
+  - enabled: 1
+    path: Assets/2021-Ports-Ella/Ports - RealLife Activity.unity
+    guid: 0d097d70e1e90b04ca80d83c285ee13c
+  - enabled: 1
+    path: Assets/2021-Ports-Ella/Ports-Gameplay-Computer.unity
+    guid: b95e31dfbfc2de24688a159455b1686f
+  - enabled: 1
+    path: Assets/2021-Data-Seth/Scenes/SampleScene.unity
+    guid: 2774568eb76543f4f9dd59915b2d36b5
+  - enabled: 1
+    path: Assets/2021-Data-Daemon/scenes/2021 -data tutorial- Daemon.unity
+    guid: cb7a550958a609f4290b629cb7bd8f42
+  - enabled: 1
+    path: Assets/2021-Data-Rene/Scenes/2021-Data-Rene.unity
+    guid: 6ff9307cb05cdf2409bccb0bb01a75b2
   m_configObjects: {}

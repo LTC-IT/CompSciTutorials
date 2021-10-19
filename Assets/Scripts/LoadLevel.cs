@@ -10,4 +10,9 @@ public class LoadLevel : MonoBehaviour {
 		SceneManager.LoadScene(level);
 	}
 
+	public void LoadSceneName (string sceneName) {
+		Debug.Log("sceneName to load: " + sceneName);
+		SceneManager.LoadScene(sceneName);
+	}
+
 }
