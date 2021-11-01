@@ -503,6 +503,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Exit Button
       objectReference: {fileID: 0}
+    - target: {fileID: 3012784683331709476, guid: 6ca5896d7651a184a962285f1342dc0b,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4421d5f3ee785ed48930f034db3b457c,
+        type: 3}
     - target: {fileID: 3012784683331709477, guid: 6ca5896d7651a184a962285f1342dc0b,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -875,7 +881,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c2659a9db27840c4ea1a91eb77999be3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fdb2fb8f3d21a7b408e106a5a8db7b03, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
